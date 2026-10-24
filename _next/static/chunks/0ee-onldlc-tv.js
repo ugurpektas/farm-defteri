@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,29306,e=>{"use strict";var a=e.i(43476),i=e.i(22016),l=e.i(94350);e.s(["default",0,function(){return(0,a.jsx)("div",{className:"sayfa",children:(0,a.jsx)(l.m,{baslik:"Sayfa bulunamadı",children:(0,a.jsx)(i.default,{href:"/",children:"Panele dön"})})})}])}]);
