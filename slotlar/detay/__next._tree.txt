@@ -2,4 +2,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"detay","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"slotlar","h":96,"c":"$Q2"}]]
-0:{"b":"PkaB2ZJq5PdUj_Yl-Eq3M","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"E5nGuMsbIUtPZ_960ByVH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
