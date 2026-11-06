@@ -1,3 +1,3 @@
-:HL["/farm-defteri/_next/static/chunks/0uj1zc_0v3_n_.css","style"]
+:HL["/farm-defteri/_next/static/chunks/2nii9okwxtkjl.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"uPCY5WA4gbYLJUuvWsI-c","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Z-Igr__5p1ftrHhQKms52","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
