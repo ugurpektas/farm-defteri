@@ -1,4 +1,4 @@
 :HL["/farm-defteri/_next/static/chunks/1uaspmt-do0kh.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"hesaplasma","h":96,"c":"$Q2"}]]
-0:{"b":"Rf0fxsxSNZvei39v63n-t","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_sU-vTIlg17m3mXTqgbHv","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
