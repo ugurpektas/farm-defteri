@@ -1,4 +1,4 @@
-:HL["/farm-defteri/_next/static/chunks/3lnao2fp_ufkh.css","style"]
+:HL["/farm-defteri/_next/static/chunks/2q6s4c1k793q-.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"zD-14FhAFWygTb9DGMerb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"nDOFYVmw1rMNV6frjgiSj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
