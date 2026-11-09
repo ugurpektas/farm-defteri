@@ -1,15 +1,15 @@
 1:"$Sreact.fragment"
-2:"/farm-defteri/_next/static/chunks/0ff5y7dbgsjpd.js"
+2:"/farm-defteri/_next/static/chunks/1uru09krh23br.js"
 3:"/farm-defteri/_next/static/chunks/44x1el-ilf20h.js"
-4:"/farm-defteri/_next/static/chunks/2jnt__zocfabd.js"
-5:"/farm-defteri/_next/static/chunks/15zzp9k7ju66t.js"
+4:"/farm-defteri/_next/static/chunks/0x7k83bv_1dvl.js"
+5:"/farm-defteri/_next/static/chunks/1wd95bzn-6wi9.js"
 6:I[35605,["$2","$3","$4","$5"],"Uygulama"]
 7:I[39756,["$2","$3","$4","$5"],"default"]
 8:I[37457,["$2","$3","$4","$5"],"default"]
 9:"/farm-defteri/_next/static/chunks/0ee-onldlc-tv.js"
 a:I[29306,["$2","$3","$4","$5","$9"],"default"]
 11:I[47257,["$2","$3","$4","$5"],"ClientPageRoot"]
-12:"/farm-defteri/_next/static/chunks/1ebtk0mafg0n2.js"
+12:"/farm-defteri/_next/static/chunks/2ctm5oerboedc.js"
 13:I[89976,["$2","$3","$4","$5","$12"],"default"]
 16:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
 17:"$Sreact.suspense"
@@ -22,9 +22,9 @@ a:I[29306,["$2","$3","$4","$5","$9"],"default"]
 c:X
 f:X
 f:C
-10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L11",null,{"Component":"$13","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@14","$@15"]}}],[["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/1ebtk0mafg0n2.js","async":true}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":"$@19","v":null,"s":"$c"}}]]
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L11",null,{"Component":"$13","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@14","$@15"]}}],[["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/2ctm5oerboedc.js","async":true}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":"$@19","v":null,"s":"$c"}}]]
 d:[["children",{"s":"hesaplasma","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/farm-defteri/_next/static/chunks/0re21-h6_1pzk.css","precedence":"next"}],["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/0ff5y7dbgsjpd.js","async":true}],["$","script","script-1",{"src":"/farm-defteri/_next/static/chunks/44x1el-ilf20h.js","async":true}],["$","script","script-2",{"src":"/farm-defteri/_next/static/chunks/2jnt__zocfabd.js","async":true}],["$","script","script-3",{"src":"/farm-defteri/_next/static/chunks/15zzp9k7ju66t.js","async":true}]],["$","html",null,{"lang":"tr","className":"_8HY3sW_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var t=JSON.parse(localStorage.getItem('farm-defteri-tema')||'\"sistem\"');if(t==='koyu')document.documentElement.dataset.theme='dark';else if(t==='acik')document.documentElement.dataset.theme='light'}catch(e){}"}}]}],["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","$La",null,{}],[]]}]}]}]]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2a78d6"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Farm Defteri"}],["$","meta","1",{"name":"description","content":"Farm ortaklığı için gelir-gider, karakter payları, onay ve hesaplaşma defteri"}],["$","link","2",{"rel":"icon","href":"/farm-defteri/icon.svg?icon.02292ltfbtbe7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$c"}},"a":"$@20","u":"$@21","b":"9M4HO2pFoiKnVEsjMc9Ug"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/farm-defteri/_next/static/chunks/0re21-h6_1pzk.css","precedence":"next"}],["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/1uru09krh23br.js","async":true}],["$","script","script-1",{"src":"/farm-defteri/_next/static/chunks/44x1el-ilf20h.js","async":true}],["$","script","script-2",{"src":"/farm-defteri/_next/static/chunks/0x7k83bv_1dvl.js","async":true}],["$","script","script-3",{"src":"/farm-defteri/_next/static/chunks/1wd95bzn-6wi9.js","async":true}]],["$","html",null,{"lang":"tr","className":"_8HY3sW_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var t=JSON.parse(localStorage.getItem('farm-defteri-tema')||'\"sistem\"');if(t==='koyu')document.documentElement.dataset.theme='dark';else if(t==='acik')document.documentElement.dataset.theme='light'}catch(e){}"}}]}],["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","$La",null,{}],[]]}]}]}]]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2a78d6"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Farm Defteri"}],["$","meta","1",{"name":"description","content":"Farm ortaklığı için gelir-gider, karakter payları, onay ve hesaplaşma defteri"}],["$","link","2",{"rel":"icon","href":"/farm-defteri/icon.svg?icon.02292ltfbtbe7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$c"}},"a":"$@20","u":"$@21","b":"yZlLkdoYeFUqMTb5bCjWg"}
 14:{}
 15:"$10:0:1:d:r:props:children:0:props:serverProvidedParams:params"
 18:null
