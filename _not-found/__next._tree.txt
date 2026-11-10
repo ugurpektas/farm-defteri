@@ -1,4 +1,4 @@
 :HL["/farm-defteri/_next/static/chunks/42-8cdxte07-a.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"Y4-Gi1g9WDoVvzsIvQ7Zj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0ebuF67-nmexQory699h2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

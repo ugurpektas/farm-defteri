@@ -3,4 +3,4 @@
 :HL["/farm-defteri/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"sss","h":96,"c":"$Q2"}]]
-0:{"b":"Y4-Gi1g9WDoVvzsIvQ7Zj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0ebuF67-nmexQory699h2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
