@@ -1,5 +1,5 @@
-:HL["/farm-defteri/_next/static/chunks/0re21-h6_1pzk.css","style"]
+:HL["/farm-defteri/_next/static/chunks/0pul8vejenqo6.css","style"]
 :HL["/farm-defteri/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/farm-defteri/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"tglK1q1Y5FMfdRhmtAzh8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Y9AKqc1V39ssYqG0EkCba","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
