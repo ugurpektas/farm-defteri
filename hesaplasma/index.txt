@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 2:"/farm-defteri/_next/static/chunks/2869lhx7g_vsw.js"
 3:"/farm-defteri/_next/static/chunks/44x1el-ilf20h.js"
-4:"/farm-defteri/_next/static/chunks/1jhf5kh92b9s_.js"
+4:"/farm-defteri/_next/static/chunks/0cxj71b9cwcgc.js"
 5:"/farm-defteri/_next/static/chunks/2xlh3j6252upu.js"
 6:I[35605,["$2","$3","$4","$5"],"Uygulama"]
 7:I[39756,["$2","$3","$4","$5"],"default"]
@@ -10,28 +10,26 @@
 a:I[29306,["$2","$3","$4","$5","$9"],"default"]
 e:I[47257,["$2","$3","$4","$5"],"ClientPageRoot"]
 f:"/farm-defteri/_next/static/chunks/382xkfde351ht.js"
-10:"/farm-defteri/_next/static/chunks/2d9sfzvxr3li2.js"
-11:"/farm-defteri/_next/static/chunks/3nveq9ud3td3j.js"
-12:"/farm-defteri/_next/static/chunks/3ws7c--6bb5-g.js"
-13:I[89976,["$2","$3","$4","$5","$f","$10","$11","$12"],"default"]
-16:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
-17:"$Sreact.suspense"
-19:"ViewportBoundary"
-1a:I[97367,["$2","$3","$4","$5"],"$19"]
-1c:"MetadataBoundary"
-1d:I[97367,["$2","$3","$4","$5"],"$1c"]
-1f:I[68027,["$2","$3","$4","$5"],"default",1]
-:HL["/farm-defteri/_next/static/chunks/062oap1t3-bg9.css","style"]
+10:"/farm-defteri/_next/static/chunks/3ws7c--6bb5-g.js"
+11:I[89976,["$2","$3","$4","$5","$f","$10"],"default"]
+14:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4","$5"],"$17"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4","$5"],"$1a"]
+1d:I[68027,["$2","$3","$4","$5"],"default",1]
+:HL["/farm-defteri/_next/static/chunks/3vn-kxhuxe3oj.css","style"]
 :HL["/farm-defteri/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/farm-defteri/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 c:X
-d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"Component":"$13","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@14","$@15"]}}],[["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/382xkfde351ht.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/farm-defteri/_next/static/chunks/2d9sfzvxr3li2.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/farm-defteri/_next/static/chunks/3nveq9ud3td3j.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/farm-defteri/_next/static/chunks/3ws7c--6bb5-g.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"Component":"$11","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@12","$@13"]}}],[["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/382xkfde351ht.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/farm-defteri/_next/static/chunks/3ws7c--6bb5-g.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
 b:[["children",{"s":"hesaplasma","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
-0:{"P":null,"c":["","hesaplasma",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/farm-defteri/_next/static/chunks/062oap1t3-bg9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/2869lhx7g_vsw.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/farm-defteri/_next/static/chunks/44x1el-ilf20h.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/farm-defteri/_next/static/chunks/1jhf5kh92b9s_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/farm-defteri/_next/static/chunks/2xlh3j6252upu.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"_8HY3sW_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var t=JSON.parse(localStorage.getItem('farm-defteri-tema')||'\"sistem\"');if(t==='koyu')document.documentElement.dataset.theme='dark';else if(t==='acik')document.documentElement.dataset.theme='light'}catch(e){}"}}]}],["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/farm-defteri/_next/static/chunks/062oap1t3-bg9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QtfOiJatUbLrm9Li52aO4"}
+0:{"P":null,"c":["","hesaplasma",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/farm-defteri/_next/static/chunks/3vn-kxhuxe3oj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/farm-defteri/_next/static/chunks/2869lhx7g_vsw.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/farm-defteri/_next/static/chunks/44x1el-ilf20h.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/farm-defteri/_next/static/chunks/0cxj71b9cwcgc.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/farm-defteri/_next/static/chunks/2xlh3j6252upu.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"_8HY3sW_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var t=JSON.parse(localStorage.getItem('farm-defteri-tema')||'\"sistem\"');if(t==='koyu')document.documentElement.dataset.theme='dark';else if(t==='acik')document.documentElement.dataset.theme='light'}catch(e){}"}}]}],["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/farm-defteri/_next/static/chunks/3vn-kxhuxe3oj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"tVolNSvM5Vor-5Fqn5Lz0"}
 c:C
-14:{}
-15:"$d:0:1:d:r:props:children:0:props:serverProvidedParams:params"
-1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2a78d6"}]]
-20:I[27201,["$2","$3","$4","$5"],"IconMark"]
-18:null
-1e:[["$","title","0",{"children":"Farm Defteri"}],["$","meta","1",{"name":"description","content":"Farm ortaklığı için gelir-gider, karakter payları, onay ve hesaplaşma defteri"}],["$","link","2",{"rel":"icon","href":"/farm-defteri/icon.svg?icon.02292ltfbtbe7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L20","3",{}]]
+12:{}
+13:"$d:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2a78d6"}]]
+1e:I[27201,["$2","$3","$4","$5"],"IconMark"]
+16:null
+1c:[["$","title","0",{"children":"Farm Defteri"}],["$","meta","1",{"name":"description","content":"Farm ortaklığı için gelir-gider, karakter payları, onay ve hesaplaşma defteri"}],["$","link","2",{"rel":"icon","href":"/farm-defteri/icon.svg?icon.02292ltfbtbe7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","3",{}]]
